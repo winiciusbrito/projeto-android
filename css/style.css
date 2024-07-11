@@ -10,12 +10,12 @@
 
 :root {
     /* Criando o variável no css */
-    --cor0: #c5ebd6;
-    --cor1: #83e1ad;
-    --cor2: #3ddc84;
-    --cor3: #2fa866;
-    --cor4: #1a5c37;
-    --cor5: #063d1e;
+    --cor0: #c8c5eb;
+    --cor1: #8983e1;
+    --cor2: #3d40dc;
+    --cor3: #2f31a8;
+    --cor4: #1b1a5c;
+    --cor5: #0a063d;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: "Bebas Neue", cursive, sans-serif;
